@@ -1,7 +1,44 @@
-.eyes {
-  transition: move 5px;
+@-moz-viewport { width: device-width; scale: 1; }
+@-ms-viewport { width: device-width; scale: 1; }
+@-o-viewport { width: device-width; scale: 1; }
+@-webkit-viewport { width: device-width; scale: 1; }
+@viewport { width: device-width; scale: 1; }
+
+*, *::before, *::after {
+  box-sizing: inherit;
 }
 
-.eyes:hover {
-  transform: move 5px;
+@keyframes horizontalmove {
+
+  0% {
+    transform: translateX(0);
+  }
+
+  25% {
+    transform: translateX(10px);
+  }
+
+  50% {
+    transform: translateX(0);
+  }
+
+  75% {
+    transform: translateX(-10px);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.eyes {
+  animation: horizontalmove 3s linear infinite;
+}
+
+#ears {
+  transition: transform .5s ease-in;
+}
+
+#bear:hover #ears {
+  transform: translateY(-10px);
 }
