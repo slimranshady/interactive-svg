@@ -1,0 +1,7 @@
+.eyes {
+  transition: move 5px;
+}
+
+.eyes:hover {
+  transform: move 5px;
+}

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="237.4" height="226.7" data-name="Layer 1" viewBox="0 0 237.4 226.7">
+  <circle cx="34.6" cy="34.6" r="34.6" fill="#673200"/>
+  <circle cx="37.1" cy="43.4" r="14.8" fill="#ffaaca"/>
+  <circle cx="202.8" cy="34.6" r="34.6" fill="#673200"/>
+  <circle cx="200.3" cy="43.4" r="14.8" fill="#ffaaca"/>
+  <circle cx="118.7" cy="118.6" r="108.1" fill="#673200"/>
+  <circle cx="118.7" cy="158.1" r="42.3" fill="#c65b00"/>
+  <path fill="#c65b00" d="M164.7 20.8a65.6 65.6 0 0 0 61 113.3 108.2 108.2 0 0 0-61-113.3zM10.6 118.6a109 109 0 0 0 1.1 15.4 65.6 65.6 0 0 0 61-113.2 108.1 108.1 0 0 0-62.1 97.8z"/>
+  <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M91.9 172.5a37.2 37.2 0 0 0 52.7 0"/>
+  <circle cx="118.7" cy="123.5" r="13" fill="#ffaaca" data-name="&lt;Ellipse&gt;"/>
+  <circle cx="75.5" cy="91.9" r="9.3" data-name="&lt;Ellipse&gt;"/>
+  <circle cx="161.9" cy="91.9" r="9.3" data-name="&lt;Ellipse&gt;"/>
+</svg>
